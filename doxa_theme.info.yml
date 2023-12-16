@@ -1,0 +1,8 @@
+name: Doxa theme
+type: theme
+'base theme': olivero
+starterkit: true
+version: VERSION
+libraries:
+  - doxa_theme/global-styling
+core_version_requirement: ^10
