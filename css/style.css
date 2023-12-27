@@ -1,3 +1,13 @@
 body {
   background-image: none;
 }
+
+.field--name-field-media-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field--name-field-media-image img {
+  max-width: 100%;
+}
